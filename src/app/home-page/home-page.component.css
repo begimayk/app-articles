@@ -1,0 +1,5 @@
+.arcticles {
+  display: inline-flex;
+  flex-direction: row;
+  flex-flow: row;
+}
